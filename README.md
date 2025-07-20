@@ -125,7 +125,7 @@
 
 Создайте карту и расположите на ней два своих хоста.
 
-## Задание 5*
+## Задание 5* со звёздочкой
 
 ### Процесс выполнения
 1. Настройте между хостами линк.
@@ -146,3 +146,34 @@
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-13.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-14.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-15.jpg)
+
+## Задание 6* со звёздочкой
+
+Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:
+
+1. при получении 1 будет возвращать ваши ФИО,
+2. при получении 2 будет возвращать текущую дату.
+### Требования к результату
+ Прикрепите в файл README.md код скрипта, а также скриншот Latest data с результатом работы скрипта на bash, чтобы был виден результат работы скрипта при отправке в него 1 и 2
+
+## Решение
+
+ Создал скрипт `nano /etc/zabbix/scripts/user_info.sh`
+
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-18.jpg)
+
+Сделал его исполняемым:
+`chmod +x /etc/zabbix/scripts/user_info.sh`
+
+Добавил строку запуска в файл агента `nano /etc/zabbix/zabbix_agent2.conf`:
+
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-19.jpg)
+
+Перезапустил агента:
+`systemctl restart zabbix-agent2`
+
+Добавил  шаблон два Items:
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-20.jpg)
+
+Результат выполнения скрипта:
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-16.jpg)
