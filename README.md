@@ -138,12 +138,9 @@
 
 Исходное рабочее состояние. "ivanovsn-1" и "ivanovsn-2" работают.
 
-![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-10.jpg)
-![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-11.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-12.jpg)
 
 Условие, при котором "ivanovsn-2" отключен.
-![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-13.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-14.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-15.jpg)
 
