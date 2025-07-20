@@ -26,7 +26,7 @@
 
 `Создал шаблон с наименованием "Задание 1"`
 
-![Добавлен шаблон "Задание 1"](https://github.com/radiomost/sys-pattern-homework/blob/main/img/img-1.jpg)
+![Добавлен шаблон "Задание 1"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-1.jpg)
 
 
 
