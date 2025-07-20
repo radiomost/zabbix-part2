@@ -76,8 +76,16 @@
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ## Решение
+Агенты были созданы на двух реальных виртуальных машинах с именами "DNS" и "GILTAB"
 
-![Привязка Zabbix агента к Zabbix серверу"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-2.jpg)
+`Запущенный Zabbix агент на виртуальной машине "DNS"`
+!["Привязка Zabbix агента к Zabbix серверу"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-3.jpg)
+
+`Привязка Zabbix агента к Zabbix серверу`
+!["Привязка Zabbix агента к Zabbix серверу"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-2.jpg)
+
+
+
 
 ### Задание 4
 
