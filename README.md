@@ -118,7 +118,7 @@
 
 ## Решение
 
-`Дашборд по визуализации данных по шаблону "Задание 1" которые поступают от "PVE2-100-DNS" и "PVE5-100-GITLAB".`
+`Дашборд по визуализации данных по шаблону "Задание 1" которые поступают от "ivanovsn-1" и "ivanovsn-2".`
 `На изображениях видно, что превышено использование RAM памяти. Нужно решать проблему.`
 
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-9.jpg)
@@ -136,13 +136,13 @@
 
 ## Решение
 
-Исходное рабочее состояние. "PVE2-100-DNS" и "PVE5-100-GITLAB" работают.
+Исходное рабочее состояние. "ivanovsn-1" и "ivanovsn-2" работают.
 
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-10.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-11.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-12.jpg)
 
-Условие, при котором PVE5-100-GITLAB отключен.
+Условие, при котором "ivanovsn-2" отключен.
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-13.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-14.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-15.jpg)
