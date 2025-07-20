@@ -160,8 +160,6 @@
 
  Создал скрипт `nano /etc/zabbix/scripts/user_info.sh`
 
-![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-18.jpg)
-
 Сделал его исполняемым:
 `chmod +x /etc/zabbix/scripts/user_info.sh`
 
