@@ -97,6 +97,14 @@
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-5.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-6.jpg)
 
+`Подключен созданный ранее шаблон "Задание 1" к "PVE2-100-DNS" и "PVE5-100-GITLAB". Хосты активны.`
+
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-7.jpg)
+
+`Мы видим, что по шаблону "Задание 1" так же поступают данные от "PVE2-100-DNS" и "PVE5-100-GITLAB".`
+
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-8.jpg)
+
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
