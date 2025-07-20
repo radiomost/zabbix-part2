@@ -79,13 +79,23 @@
 Агенты были созданы на двух реальных виртуальных машинах с именами "DNS" и "GILTAB"
 
 `Запущенный Zabbix агент на виртуальной машине "DNS"`
-!["Привязка Zabbix агента к Zabbix серверу"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-3.jpg)
+
+!["Запущенный Zabbix агент на виртуальной машине DNS"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-3.jpg)
+
 
 `Привязка Zabbix агента к Zabbix серверу`
+
 !["Привязка Zabbix агента к Zabbix серверу"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-2.jpg)
 
 
+`Далее я создал два хоста в Zabbix 	"PVE2-100-DNS" и "PVE5-100-GITLAB" для мониторига со стандартным шаблоном сбора логов "Linux by Zabbix Agent"`
 
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-4.jpg)
+
+`На следующих излображениях видно, что данные с применением шаблона "Linux by Zabbix Agent" приходят от двух хостов "PVE2-100-DNS" и "PVE5-100-GITLAB".`
+
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-5.jpg)
+![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-6.jpg)
 
 ### Задание 4
 
