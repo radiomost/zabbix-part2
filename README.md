@@ -88,20 +88,20 @@
 !["Привязка Zabbix агента к Zabbix серверу"](https://github.com/radiomost/zabbix-part2/blob/main/img/img-2.jpg)
 
 
-`Далее я создал два хоста в Zabbix 	"PVE2-100-DNS" и "PVE5-100-GITLAB" для мониторига со стандартным шаблоном сбора логов "Linux by Zabbix Agent"`
+`Далее я создал два хоста в Zabbix 	"ivanovsn-1" и "ivanovsn-2" для мониторига со стандартным шаблоном сбора логов "Linux by Zabbix Agent"`
 
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-4.jpg)
 
-`На следующих излображениях видно, что данные с применением шаблона "Linux by Zabbix Agent" приходят от двух хостов "PVE2-100-DNS" и "PVE5-100-GITLAB".`
+`На следующих излображениях видно, что данные с применением шаблона "Linux by Zabbix Agent" приходят от двух хостов "ivanovsn-1" и "ivanovsn-2".`
 
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-5.jpg)
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-6.jpg)
 
-`Подключен созданный ранее шаблон "Задание 1" к "PVE2-100-DNS" и "PVE5-100-GITLAB". Хосты активны.`
+`Подключен созданный ранее шаблон "Задание 1" к "ivanovsn-1" и "ivanovsn-2". Хосты активны.`
 
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-7.jpg)
 
-`Мы видим, что по шаблону "Задание 1" так же поступают данные от "PVE2-100-DNS" и "PVE5-100-GITLAB".`
+`Мы видим, что по шаблону "Задание 1" так же поступают данные от "ivanovsn-1" и "ivanovsn-2".`
 
 ![""](https://github.com/radiomost/zabbix-part2/blob/main/img/img-8.jpg)
 
