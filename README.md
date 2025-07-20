@@ -26,7 +26,7 @@
 
 `Создал шаблон с наименованием "Задание 1"`
 
-![Свободное место на диске C. Обведено маркером](https://github.com/radiomost/sys-pattern-homework/blob/main/img/img-1.jpeg)
+![Добавлен шаблон "Задание 1"](https://github.com/radiomost/sys-pattern-homework/blob/main/img/img-1.jpg)
 
 
 
